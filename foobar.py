@@ -1,4 +1,5 @@
 def sieve(num):
+    # Ensure number is an int
     num = int(num)
     for i in range(num):
 
