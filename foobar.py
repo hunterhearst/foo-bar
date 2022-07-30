@@ -11,4 +11,4 @@ def sieve(num):
             print(f"Bar - {i}")
         else:
             print(i)
-sieve(15)
+sieve(682)
